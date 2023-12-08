@@ -16,3 +16,7 @@ ggplot(data, aes(x = x, y = y)) +
   ylab("Y Axis Label")
 
 Monstre <- "karim le bg"
+
+bg <- "tttt"
+
+tr <- 'u'
