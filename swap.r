@@ -15,7 +15,7 @@ ggplot(data, aes(x = x, y = y)) +
   xlab("X Axis Label") +
   ylab("Y Axis Label")
 
-DoybleMonstre <- "karim le bg"
+DoubleMonstre <- "karim le bg"
 
 bg <- "tttt"
 
