@@ -20,3 +20,4 @@ Monstre <- "karim le bg"
 bg <- "tttt"
 
 tr <- 'u'
+z <- 4
