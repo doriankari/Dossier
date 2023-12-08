@@ -27,4 +27,4 @@ z <- 4
 
 
 
-print ("à toi de jouer")
+print ("t fou toi")
