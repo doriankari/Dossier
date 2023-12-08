@@ -21,3 +21,10 @@ bg <- "tttt"
 
 tr <- 'u'
 z <- 4
+
+
+
+
+
+
+print("la cong de ses morts")
