@@ -27,4 +27,4 @@ z <- 4
 
 
 
-print ("arrete d'écrire nimpyyyyyyyyyyyyyyy")
+juif <- 39-45
