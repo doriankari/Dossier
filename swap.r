@@ -27,4 +27,4 @@ z <- 4
 
 
 
-print ("arrete d'écrire nimpyyyyyyyyyyyyyyy")
+print ("arrete d'écrire nimpyyyyyyyyyyy")
